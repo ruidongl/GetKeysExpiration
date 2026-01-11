@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj": {}
+    "C:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj": {
+    "C:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj",
+        "projectUniqueName": "C:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj",
         "projectName": "GetKeysExpiration",
-        "projectPath": "c:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj",
+        "projectPath": "C:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\GetKeysExpiration.csproj",
         "packagesPath": "C:\\Users\\ruidongl\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\obj\\",
+        "outputPath": "C:\\Users\\ruidongl\\OneDrive - Microsoft\\Documents\\Azure\\GetKeysExpiration\\GetKeysExpiration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

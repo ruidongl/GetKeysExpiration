@@ -17,3 +17,4 @@ C:\Users\ruidongl\OneDrive - Microsoft\Documents\Azure\GetKeysExpiration\GetKeys
 C:\Users\ruidongl\OneDrive - Microsoft\Documents\Azure\GetKeysExpiration\GetKeysExpiration\obj\Debug\net9.0\GetKeysExpiration.pdb
 C:\Users\ruidongl\OneDrive - Microsoft\Documents\Azure\GetKeysExpiration\GetKeysExpiration\obj\Debug\net9.0\GetKeysExpiration.genruntimeconfig.cache
 C:\Users\ruidongl\OneDrive - Microsoft\Documents\Azure\GetKeysExpiration\GetKeysExpiration\obj\Debug\net9.0\ref\GetKeysExpiration.dll
+C:\Users\ruidongl\OneDrive - Microsoft\Documents\Azure\GetKeysExpiration\GetKeysExpiration\obj\Debug\net9.0\GetKeysExpiration.sourcelink.json

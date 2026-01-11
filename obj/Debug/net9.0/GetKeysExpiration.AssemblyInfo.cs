@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetKeysExpiration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68601ee12a16f3cde509410a311b6acc34b7f17e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4960dd822868a9341cadf367e0113fcbd410cf7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetKeysExpiration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetKeysExpiration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
